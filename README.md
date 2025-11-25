@@ -65,13 +65,6 @@ Building **MCP (Model Context Protocol) servers** for AI integration - enabling 
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-## GitHub Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gufao&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gufao&layout=compact&theme=default&hide_border=true" />
-</p>
-
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-linhares/)
