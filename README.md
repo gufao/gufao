@@ -52,6 +52,15 @@ Building **MCP (Model Context Protocol) servers** for AI integration - enabling 
       <a href="https://github.com/gufao/mcp-server-mail-agent">View Repository →</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3>📅 MCP Server Google Calendar</h3>
+      <p>Google Calendar integration through Model Context Protocol. Manage events, calendars, and schedules directly from AI assistants.</p>
+      <a href="https://github.com/gufao/mcp-server-google-calendar">View Repository →</a>
+    </td>
+    <td width="50%">
+    </td>
+  </tr>
 </table>
 
 ## What I Do Best
