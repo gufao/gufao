@@ -39,26 +39,62 @@ Building **MCP (Model Context Protocol) servers** for AI integration - enabling 
 
 ## Featured Projects
 
+### 🔌 MCP Servers
+
 <table>
   <tr>
     <td width="50%">
-      <h3>🤖 MCP Server Fabric AI</h3>
+      <h4>🤖 MCP Server Fabric AI</h4>
       <p>Access 234+ AI patterns through Model Context Protocol. Integrate Fabric's powerful prompts with Claude Desktop and other MCP clients.</p>
       <a href="https://github.com/gufao/mcp-server-fabric-ai">View Repository →</a>
     </td>
     <td width="50%">
-      <h3>📧 MCP Server Mail Agent</h3>
+      <h4>📧 MCP Server Mail Agent</h4>
       <p>Multi-provider, multi-account Email MCP Server supporting Gmail, Outlook, and IMAP for AI assistants.</p>
       <a href="https://github.com/gufao/mcp-server-mail-agent">View Repository →</a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>📅 MCP Server Google Calendar</h3>
+      <h4>📅 MCP Server Google Calendar</h4>
       <p>Google Calendar integration through Model Context Protocol. Manage events, calendars, and schedules directly from AI assistants.</p>
       <a href="https://github.com/gufao/mcp-server-google-calendar">View Repository →</a>
     </td>
     <td width="50%">
+      <h4>💬 MCP Server Discord</h4>
+      <p>Discord bot integration via Model Context Protocol. Enable AI assistants to send messages, manage channels, and interact with Discord securely.</p>
+      <a href="https://github.com/gufao/mcp-server-discord">View Repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>📁 MCP Server Google Drive</h4>
+      <p>Google Drive file operations through MCP. List, search, upload, download, and share files with AI assistants.</p>
+      <a href="https://github.com/gufao/mcp-server-google-drive">View Repository →</a>
+    </td>
+    <td width="50%">
+      <h4>📄 MCP Server Stirling PDF</h4>
+      <p>Comprehensive PDF manipulation via MCP with 10+ powerful tools for merging, splitting, watermarking, OCR, and more.</p>
+      <a href="https://github.com/gufao/mcp-server-stirling-pdf">View Repository →</a>
+    </td>
+  </tr>
+</table>
+
+### 📱 Mobile & Web Applications
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>⚡ VoltMap</h4>
+      <p>EV Charging Station Finder app built with Expo and React Native. Features interactive maps, real-time availability, trip planning, and upcoming CarPlay/Android Auto support.</p>
+      <p><strong>Tech:</strong> Expo SDK 52+, Zustand, React Query, NativeWind, PostgreSQL</p>
+      <a href="https://voltmap.linhares.sc">View Project →</a>
+    </td>
+    <td width="50%">
+      <h4>🔄 LoopBack</h4>
+      <p>Modern sprint retrospective application for agile teams. Real-time collaboration with Start/Stop/Continue framework, voting system, and beautiful UI.</p>
+      <p><strong>Tech:</strong> React 18, TypeScript, Vite, TailwindCSS, Supabase</p>
+      <a href="https://loopback.linhares.sc">View Project →</a>
     </td>
   </tr>
 </table>
