@@ -2,7 +2,7 @@
 
 **Senior React Native Engineer** | Mobile Architecture | Technical Leadership
 
-📍 Florianópolis, Brazil • 🌐 [linhares.sc](http://linhares.sc)
+📍 Florianópolis, Brazil • 🌐 [ThreadCode](http://threadcode.linhares.sc)
 
 ---
 
@@ -14,6 +14,13 @@ Mobile engineer with **8+ years of experience** building scalable React Native a
 - 📱 Delivered **15+ major features** and **8+ complete applications**
 - 👥 Technical leadership and mentorship of cross-functional teams
 - 🌍 Trilingual: Portuguese, English, Italian
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gufao&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC" alt="gufao's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gufao&layout=compact&theme=transparent&hide_border=true&title_color=007ACC" alt="Top Languages" />
+</p>
 
 ## Tech Stack
 
@@ -107,6 +114,44 @@ Building **MCP (Model Context Protocol) servers** for AI integration - enabling 
       <p>Modern sprint retrospective application for agile teams. Real-time collaboration with Start/Stop/Continue framework, voting system, and beautiful UI.</p>
       <p><strong>Tech:</strong> React 18, TypeScript, Vite, TailwindCSS, Supabase</p>
       <a href="https://loopback.linhares.sc">View Project →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🎥 Perseus Video Editor</h4>
+      <p>Lightweight desktop video editor built with Electron and React. Designed for quick cuts, trims, and exports with a focus on simple usage.</p>
+      <p><strong>Tech:</strong> Electron, React, Node.js</p>
+      <a href="https://github.com/gufao/perseus-video-editor">View Repository →</a>
+    </td>
+    <td width="50%">
+      <h4>📼 Memento</h4>
+      <p>Modern YouTube video downloader built with Electron, React, and yt-dlp. Features a clean UI for downloading videos and playlists in various formats.</p>
+      <p><strong>Tech:</strong> Electron, React, yt-dlp</p>
+      <a href="https://github.com/gufao/memento">View Repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🆔 Zé Ninguém</h4>
+      <p>Instant identity generator for testing. Creates realistic names, CPF, and phone numbers locally on your device with zero data collection.</p>
+      <p><strong>Tech:</strong> React Native, Expo, Offline-first</p>
+      <a href="https://github.com/gufao/ninguem">View Repository →</a>
+    </td>
+    <td width="50%">
+      <h4>🃏 Cards Against Backlogs</h4>
+      <p>Agile estimation game for remote teams. A fun, gamified twist on planning poker to make backlog refinement engaging.</p>
+      <p><strong>Tech:</strong> Next.js, React, Socket.io</p>
+      <a href="https://github.com/gufao/cards-against-backlogs">View Repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>✒️ ThinkInk</h4>
+      <p>Creative writing and note-taking application. A distraction-free environment for capturing ideas and drafting content.</p>
+      <p><strong>Tech:</strong> Next.js, TailwindCSS, Markdown</p>
+      <a href="https://github.com/gufao/thinkink">View Repository →</a>
+    </td>
+    <td width="50%">
     </td>
   </tr>
 </table>
