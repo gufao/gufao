@@ -17,8 +17,10 @@ Mobile engineer with **8+ years of experience** building scalable React Native a
 
 ## GitHub Stats
 
-[![gufao's GitHub stats](https://github-readme-stats.vercel.app/api?username=gufao&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gufao&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gufao&show_icons=true&theme=gotham&hide_border=true&title_color=007ACC" alt="gufao's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gufao&layout=compact&theme=gotham&hide_border=true&title_color=007ACC" alt="Top Languages" />
+</p>
 
 ## Tech Stack
 
@@ -149,6 +151,7 @@ Building **MCP (Model Context Protocol) servers** for AI integration - enabling 
       <p><strong>Tech:</strong> Next.js, TailwindCSS, Markdown</p>
       <a href="https://github.com/gufao/thinkink">View Repository →</a>
     </td>
+    <td width="50%">
       <h4>🖼️ Pixelsmith</h4>
       <p>Precision image manipulation tool. Clean and simple interface for cropping, resizing, and editing images directly in the browser.</p>
       <p><strong>Tech:</strong> React, Vite, TailwindCSS, ImageCrop</p>
