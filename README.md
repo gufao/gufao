@@ -17,10 +17,8 @@ Mobile engineer with **8+ years of experience** building scalable React Native a
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gufao&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC" alt="gufao's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gufao&layout=compact&theme=transparent&hide_border=true&title_color=007ACC" alt="Top Languages" />
-</p>
+[![gufao's GitHub stats](https://github-readme-stats.vercel.app/api?username=gufao&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gufao&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech Stack
 
