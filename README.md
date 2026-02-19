@@ -15,13 +15,6 @@ Mobile engineer with **8+ years of experience** building scalable React Native a
 - 👥 Technical leadership and mentorship of cross-functional teams
 - 🌍 Trilingual: Portuguese, English, Italian
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gufao&theme=gotham&hide_border=true" alt="gufao's Streak" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gufao&layout=compact&theme=gotham&hide_border=true&title_color=007ACC" alt="Top Languages" />
-</p>
-
 ## Tech Stack
 
 **Mobile**
@@ -127,7 +120,7 @@ Building **MCP (Model Context Protocol) servers** for AI integration - enabling 
       <h4>📼 Memento</h4>
       <p>Modern YouTube video downloader built with Electron, React, and yt-dlp. Features a clean UI for downloading videos and playlists in various formats.</p>
       <p><strong>Tech:</strong> Electron, React, yt-dlp</p>
-      <a href="https://github.com/gufao/memento">View Repository →</a>
+      <a href="https://memento.linhares.sc">View Project →</a>
     </td>
   </tr>
   <tr>
@@ -135,13 +128,13 @@ Building **MCP (Model Context Protocol) servers** for AI integration - enabling 
       <h4>🆔 Zé Ninguém</h4>
       <p>Instant identity generator for testing. Creates realistic names, CPF, and phone numbers locally on your device with zero data collection.</p>
       <p><strong>Tech:</strong> React Native, Expo, Offline-first</p>
-      <a href="https://github.com/gufao/ninguem">View Repository →</a>
+      <a href="https://ninguem.linhares.sc">View Project →</a>
     </td>
     <td width="50%">
       <h4>🃏 Cards Against Backlogs</h4>
       <p>Agile estimation game for remote teams. A fun, gamified twist on planning poker to make backlog refinement engaging.</p>
       <p><strong>Tech:</strong> Next.js, React, Socket.io</p>
-      <a href="https://cards-against-backlogs.vercel.app">View Project →</a>
+      <a href="https://cab.linhares.sc">View Project →</a>
     </td>
   </tr>
   <tr>
@@ -149,16 +142,23 @@ Building **MCP (Model Context Protocol) servers** for AI integration - enabling 
       <h4>✒️ ThinkInk</h4>
       <p>Creative writing and note-taking application. A distraction-free environment for capturing ideas and drafting content.</p>
       <p><strong>Tech:</strong> Next.js, TailwindCSS, Markdown</p>
-      <a href="https://thinkink-augusto-linhares-projects-dc26cb70.vercel.app">View Project →</a>
+      <a href="https://thinkink.linhares.sc">View Project →</a>
     </td>
     <td width="50%">
       <h4>🖼️ Pixelsmith</h4>
       <p>Precision image manipulation tool. Clean and simple interface for cropping, resizing, and editing images directly in the browser.</p>
       <p><strong>Tech:</strong> React, Vite, TailwindCSS, ImageCrop</p>
-      <a href="https://pixelsmith-phi.vercel.app">View Project →</a>
+      <a href="https://pixelsmith.linhares.sc">View Project →</a>
     </td>
   </tr>
 </table>
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gufao&theme=gotham&hide_border=true" alt="gufao's Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gufao&layout=compact&theme=gotham&hide_border=true&title_color=007ACC" alt="Top Languages" />
+</p>
 
 ## What I Do Best
 
