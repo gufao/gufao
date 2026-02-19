@@ -121,7 +121,7 @@ Building **MCP (Model Context Protocol) servers** for AI integration - enabling 
       <h4>🎥 Perseus Video Editor</h4>
       <p>Lightweight desktop video editor built with Electron and React. Designed for quick cuts, trims, and exports with a focus on simple usage.</p>
       <p><strong>Tech:</strong> Electron, React, Node.js</p>
-      <a href="https://github.com/gufao/perseus-video-editor">View Repository →</a>
+      <a href="https://perseus.linhares.sc">View Project →</a>
     </td>
     <td width="50%">
       <h4>📼 Memento</h4>
@@ -141,7 +141,7 @@ Building **MCP (Model Context Protocol) servers** for AI integration - enabling 
       <h4>🃏 Cards Against Backlogs</h4>
       <p>Agile estimation game for remote teams. A fun, gamified twist on planning poker to make backlog refinement engaging.</p>
       <p><strong>Tech:</strong> Next.js, React, Socket.io</p>
-      <a href="https://github.com/gufao/cards-against-backlogs">View Repository →</a>
+      <a href="https://cards-against-backlogs.vercel.app">View Project →</a>
     </td>
   </tr>
   <tr>
@@ -149,13 +149,13 @@ Building **MCP (Model Context Protocol) servers** for AI integration - enabling 
       <h4>✒️ ThinkInk</h4>
       <p>Creative writing and note-taking application. A distraction-free environment for capturing ideas and drafting content.</p>
       <p><strong>Tech:</strong> Next.js, TailwindCSS, Markdown</p>
-      <a href="https://github.com/gufao/thinkink">View Repository →</a>
+      <a href="https://thinkink-augusto-linhares-projects-dc26cb70.vercel.app">View Project →</a>
     </td>
     <td width="50%">
       <h4>🖼️ Pixelsmith</h4>
       <p>Precision image manipulation tool. Clean and simple interface for cropping, resizing, and editing images directly in the browser.</p>
       <p><strong>Tech:</strong> React, Vite, TailwindCSS, ImageCrop</p>
-      <a href="https://github.com/gufao/pixelsmith">View Repository →</a>
+      <a href="https://pixelsmith-phi.vercel.app">View Project →</a>
     </td>
   </tr>
 </table>
