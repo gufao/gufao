@@ -1,183 +1,131 @@
-# Hi, I'm Augusto Linhares
+<p align="center">
+  <a href="https://threadcode.com.br">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
+      <img alt="Augusto Linhares — Founder & Principal Engineer at ThreadCode" src="./assets/header-dark.svg" width="100%" />
+    </picture>
+  </a>
+</p>
 
-**Senior React Native Engineer** | Mobile Architecture | Technical Leadership
-
-📍 Florianópolis, Brazil • 🌐 [ThreadCode](http://threadcode.linhares.sc)
+<p align="center">
+  <a href="https://threadcode.com.br"><img src="https://img.shields.io/badge/ThreadCode-threadcode.com.br-1B3664?style=flat-square&logo=googlechrome&logoColor=8ED151" alt="ThreadCode Website" /></a>
+  <a href="https://www.linkedin.com/in/augusto-linhares/"><img src="https://img.shields.io/badge/LinkedIn-Augusto_Linhares-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/company/threadcode"><img src="https://img.shields.io/badge/Company-ThreadCode-22447D?style=flat-square&logo=linkedin&logoColor=white" alt="ThreadCode LinkedIn" /></a>
+  <a href="mailto:threadcode@linhares.sc"><img src="https://img.shields.io/badge/Contact-threadcode%40linhares.sc-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
-## About Me
+### About Me & ThreadCode
 
-Mobile engineer with **8+ years of experience** building scalable React Native applications. I specialize in performance optimization, clean architecture, and leading distributed engineering teams.
+Software engineer with **15+ years of hands-on experience** (including **8+ years specializing in React Native**) based in **Florianópolis / Palhoça, Brazil**, operating remotely in **English, Portuguese, and Italian**.
 
-- 🚀 Track record of **60-80% performance improvements**
-- 📱 Delivered **15+ major features** and **8+ complete applications**
-- 👥 Technical leadership and mentorship of cross-functional teams
-- 🌍 Trilingual: Portuguese, English, Italian
+I am the founder of **[ThreadCode](https://threadcode.com.br)** — a software studio and engineering consultancy where we partner with B2B teams on mission-critical products while designing, shipping, and growing our own portfolio of **10+ live apps, games, web systems, and open-source desktop tools**.
 
-## Tech Stack
+| Focus Area | What I Deliver |
+| :--- | :--- |
+| **Mobile Architecture** | Production iOS & Android apps in **React Native (New Architecture — Fabric, TurboModules, JSI)** and **Expo/EAS**, offline-first sync, native Swift/Kotlin bridges, Apple CarPlay / Android Auto, WidgetKit, and automated release pipelines (30+ white-label apps). |
+| **Performance & Scale** | Measurable **60–80% mobile & web performance improvements**, virtualized lists (`FlashList`), UI-thread animations (`Reanimated` / `Skia`), observability (`Sentry` / `GlitchTip`), and session replay platforms. |
+| **Web, AI & Automation** | Full-stack **Next.js / TypeScript / Node.js** systems, **AI agents & MCP servers**, computer vision & document extraction pipelines, and end-to-end E2E validation (`Maestro` / `Playwright`). |
+| **Desktop & Systems** | Native, low-memory cross-platform tools built with **Tauri & Rust** (macOS, Windows, Linux). |
 
-**Mobile**
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat&logo=react&logoColor=white)
+---
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=react-query&logoColor=white)
+### ThreadCode Products in Production
 
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
-
-## Current Focus
-
-Building **MCP (Model Context Protocol) servers** for AI integration - enabling seamless connections between AI assistants and external tools.
-
-## Featured Projects
-
-### 🔌 MCP Servers
+Apps, games, and web tools designed, shipped, and maintained under **[threadcode.com.br](https://threadcode.com.br)**:
 
 <table>
   <tr>
-    <td width="50%">
-      <h4>🤖 MCP Server Fabric AI</h4>
-      <p>Access 234+ AI patterns through Model Context Protocol. Integrate Fabric's powerful prompts with Claude Desktop and other MCP clients.</p>
-      <a href="https://github.com/gufao/mcp-server-fabric-ai">View Repository →</a>
+    <td width="50%" valign="top">
+      <strong><a href="https://threadcode.com.br/voltmap">VoltMap</a></strong> · <em>iOS & Android</em><br/>
+      EV charging finder & highway route optimizer with real-time availability, connector/kW filters, and native <strong>Apple CarPlay & Android Auto</strong>.<br/>
+      <sub><code>React Native</code> · <code>Expo</code> · <code>PostgreSQL</code> · <a href="https://apps.apple.com/us/app/voltmap-ev-chargers/id6759010589">App Store</a> · <a href="https://play.google.com/store/apps/details?id=sc.linhares.voltmap">Google Play</a></sub>
     </td>
-    <td width="50%">
-      <h4>📧 MCP Server Mail Agent</h4>
-      <p>Multi-provider, multi-account Email MCP Server supporting Gmail, Outlook, and IMAP for AI assistants.</p>
-      <a href="https://github.com/gufao/mcp-server-mail-agent">View Repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>📅 MCP Server Google Calendar</h4>
-      <p>Google Calendar integration through Model Context Protocol. Manage events, calendars, and schedules directly from AI assistants.</p>
-      <a href="https://github.com/gufao/mcp-server-google-calendar">View Repository →</a>
-    </td>
-    <td width="50%">
-      <h4>💬 MCP Server Discord</h4>
-      <p>Discord bot integration via Model Context Protocol. Enable AI assistants to send messages, manage channels, and interact with Discord securely.</p>
-      <a href="https://github.com/gufao/mcp-server-discord">View Repository →</a>
+    <td width="50%" valign="top">
+      <strong><a href="https://threadcode.com.br/vasinho">Vasinho</a></strong> · <em>iOS & Android</em><br/>
+      AI-powered botanical identification from photos, smart watering schedules tailored to your routine, and care history logs.<br/>
+      <sub><code>React Native</code> · <code>Expo</code> · <code>Gemini Vision</code> · <a href="https://apps.apple.com/br/app/vasinho/id6760940611">App Store</a> · <a href="https://play.google.com/store/apps/details?id=sc.linhares.vasinho">Google Play</a></sub>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h4>📁 MCP Server Google Drive</h4>
-      <p>Google Drive file operations through MCP. List, search, upload, download, and share files with AI assistants.</p>
-      <a href="https://github.com/gufao/mcp-server-google-drive">View Repository →</a>
+    <td width="50%" valign="top">
+      <strong><a href="https://threadcode.com.br/skyduel">Skyduel</a></strong> · <em>iOS & Android</em><br/>
+      Tactical orbital-gravity space artillery game — bend shots around planets and black holes in 1v1 Pass & Play or vs. tactical AI.<br/>
+      <sub><code>Godot 4</code> · <code>Offline 1v1</code> · <a href="https://apps.apple.com/app/skyduel/id6818122612">App Store</a> · <a href="https://play.google.com/store/apps/details?id=sc.linhares.skyduel">Google Play</a></sub>
     </td>
-    <td width="50%">
-      <h4>📄 MCP Server Stirling PDF</h4>
-      <p>Comprehensive PDF manipulation via MCP with 10+ powerful tools for merging, splitting, watermarking, OCR, and more.</p>
-      <a href="https://github.com/gufao/mcp-server-stirling-pdf">View Repository →</a>
+    <td width="50%" valign="top">
+      <strong><a href="https://threadcode.com.br/apollos">Apollo's Shadow</a></strong> · <em>iOS & Android</em><br/>
+      Global detective mystery game with real-world geography & history clues, procedural cases, and bilingual support (EN/PT).<br/>
+      <sub><code>RN New Arch</code> · <code>Reanimated</code> · <code>Gemini AI</code> · <a href="https://apps.apple.com/br/app/apollos-shadow/id6762158010">App Store</a> · <a href="https://play.google.com/store/apps/details?id=sc.linhares.apollosshadow">Google Play</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://threadcode.com.br/listinha">Listinha</a></strong> · <em>iOS & Android</em><br/>
+      Smart grocery lists with AI receipt scanning (NFCe / QR Code), cross-store price history, and real-time family sync.<br/>
+      <sub><code>React Native</code> · <code>Expo</code> · <code>Gemini AI</code> · <code>InstantDB</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://threadcode.com.br/ocultinho">Ocultinho</a></strong> · <em>Web App</em><br/>
+      Zero-spoiler, no-login Secret Santa organizer with cryptographic draws, individual WhatsApp links, and live wishlists.<br/>
+      <sub><code>Next.js 15</code> · <code>TypeScript</code> · <code>Turso (libSQL)</code> · <code>LGPD-first</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://threadcode.com.br/gloss">Gloss</a></strong> &amp; <strong><a href="https://threadcode.com.br/hexstone">Hexstone</a></strong> · <em>iOS & Android</em><br/>
+      Local-first mobile Markdown editor (<strong>Gloss</strong>) and real-time MTG companion with native iOS WidgetKit (<strong>Hexstone</strong>).<br/>
+      <sub><code>RN New Arch</code> · <code>InstantDB</code> · <code>WidgetKit</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://bro.linhares.sc">Bro</a></strong> · <em>SaaS & Mobile SDK</em><br/>
+      Real-time product analytics, funnels, retention, automated push campaigns, dedicated React Native SDK, and AI MCP server.<br/>
+      <sub><code>Next.js</code> · <code>Turborepo</code> · <code>PostgreSQL</code> · <code>Redis</code></sub>
     </td>
   </tr>
 </table>
 
-### 📱 Mobile & Web Applications
+---
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>⚡ VoltMap</h4>
-      <p>EV Charging Station Finder app built with Expo and React Native. Features interactive maps, real-time availability, trip planning, and upcoming CarPlay/Android Auto support.</p>
-      <p><strong>Tech:</strong> Expo SDK 52+, Zustand, React Query, NativeWind, PostgreSQL</p>
-      <a href="https://voltmap.linhares.sc">View Project →</a>
-    </td>
-    <td width="50%">
-      <h4>🔄 LoopBack</h4>
-      <p>Modern sprint retrospective application for agile teams. Real-time collaboration with Start/Stop/Continue framework, voting system, and beautiful UI.</p>
-      <p><strong>Tech:</strong> React 18, TypeScript, Vite, TailwindCSS, Supabase</p>
-      <a href="https://loopback.linhares.sc">View Project →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🎥 Perseus Video Editor</h4>
-      <p>Lightweight desktop video editor built with Electron and React. Designed for quick cuts, trims, and exports with a focus on simple usage.</p>
-      <p><strong>Tech:</strong> Electron, React, Node.js</p>
-      <a href="https://perseus.linhares.sc">View Project →</a>
-    </td>
-    <td width="50%">
-      <h4>📼 Memento</h4>
-      <p>Modern YouTube video downloader built with Electron, React, and yt-dlp. Features a clean UI for downloading videos and playlists in various formats.</p>
-      <p><strong>Tech:</strong> Electron, React, yt-dlp</p>
-      <a href="https://memento.linhares.sc">View Project →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🆔 Zé Ninguém</h4>
-      <p>Instant identity generator for testing. Creates realistic names, CPF, and phone numbers locally on your device with zero data collection.</p>
-      <p><strong>Tech:</strong> React Native, Expo, Offline-first</p>
-      <a href="https://ninguem.linhares.sc">View Project →</a>
-    </td>
-    <td width="50%">
-      <h4>🃏 Cards Against Backlogs</h4>
-      <p>Agile estimation game for remote teams. A fun, gamified twist on planning poker to make backlog refinement engaging.</p>
-      <p><strong>Tech:</strong> Next.js, React, Socket.io</p>
-      <a href="https://cab.linhares.sc">View Project →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>✒️ ThinkInk</h4>
-      <p>Creative writing and note-taking application. A distraction-free environment for capturing ideas and drafting content.</p>
-      <p><strong>Tech:</strong> Next.js, TailwindCSS, Markdown</p>
-      <a href="https://thinkink.linhares.sc">View Project →</a>
-    </td>
-    <td width="50%">
-      <h4>🖼️ Pixelsmith</h4>
-      <p>Precision image manipulation tool. Clean and simple interface for cropping, resizing, and editing images directly in the browser.</p>
-      <p><strong>Tech:</strong> React, Vite, TailwindCSS, ImageCrop</p>
-      <a href="https://pixelsmith.linhares.sc">View Project →</a>
-    </td>
-  </tr>
-</table>
+### Open Source & Developer Tools
 
-## GitHub Stats
+#### Desktop Applications (Rust & Tauri)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gufao&theme=gotham&hide_border=true" alt="gufao's Streak" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gufao&layout=compact&theme=gotham&hide_border=true&title_color=007ACC" alt="Top Languages" />
-</p>
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Catleap](https://github.com/gufao/catleap)** | Open-source macOS game launcher for running Windows games via Apple's Game Porting Toolkit — no Homebrew required. | `Rust` · `macOS` |
+| **[Amendoim](https://github.com/gufao/amendoim)** | Ultralight native macOS PostgreSQL client with schema explorer, Monaco SQL editor, and Keychain credentials. ([site](https://threadcode.com.br/amendoim)) | `Tauri` · `Rust` · `React` · `TypeScript` |
+| **[Perseus](https://github.com/gufao/perseus-video-editor)** | Native cross-platform desktop video editor for fast frame-accurate cuts, trims, and exports. | `Tauri` · `Rust` · `React` · `FFmpeg` |
+| **[Memento](https://github.com/gufao/memento)** | Modern cross-platform YouTube downloader with clean UI for videos and playlists. | `Tauri` · `Rust` · `React` · `yt-dlp` |
 
-## What I Do Best
+#### Model Context Protocol (MCP) Servers
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  📐 Architecture     Clean, modular, SOLID-based mobile apps   │
-│  ⚡ Performance      Optimization with measurable results      │
-│  🔄 CI/CD            Fastlane, EAS, GitHub Actions pipelines   │
-│  👥 Leadership       Mentorship & distributed team management  │
-└─────────────────────────────────────────────────────────────────┘
-```
+Tools connecting AI assistants (Claude, Codex, Gemini, and MCP clients) directly to real-world workflows:
 
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-linhares/)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://linhares.sc)
+- **[mcp-server-mail-agent](https://github.com/gufao/mcp-server-mail-agent)** — Multi-provider, multi-account email server (Gmail, Outlook, IMAP)
+- **[mcp-server-google-calendar](https://github.com/gufao/mcp-server-google-calendar)** — OAuth2 Google Calendar & task management
+- **[mcp-server-google-drive](https://github.com/gufao/mcp-server-google-drive)** — File search, upload, download, and sharing for Google Drive
+- **[mcp-server-stirling-pdf](https://github.com/gufao/mcp-server-stirling-pdf)** — 10+ PDF tools (merge, split, watermark, OCR)
+- **[mcp-server-discord](https://github.com/gufao/mcp-server-discord)** — Secure Discord bot messaging & channel operations
+- **[mcp-server-fabric-ai](https://github.com/gufao/mcp-server-fabric-ai)** — 234+ Fabric AI prompt patterns via MCP
 
 ---
 
-<p align="center">
-  <i>Open to interesting opportunities and collaborations</i>
-</p>
+### Core Engineering Stack
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Mobile & Native** | React Native (New Architecture: Fabric, TurboModules, JSI, Hermes), Expo / EAS, TypeScript, Swift, Kotlin, Reanimated, Skia, FlashList, CarPlay, Android Auto, WidgetKit |
+| **Web & Backend** | Next.js, React, Node.js, Tailwind CSS, GraphQL, WebSockets, PostgreSQL, Turso / SQLite, Supabase, InstantDB, Redis, Turborepo |
+| **Desktop & Games** | Tauri, Rust, Godot 4, FFmpeg |
+| **AI, QA & Cloud** | MCP, LLMs & Computer Vision (Gemini / OpenAI / Claude), Maestro, Playwright, Jest / Vitest, AWS, Vercel, Firebase, Fastlane, GitHub Actions, Sentry / GlitchTip |
+
+---
+
+### Work Together
+
+Need senior **React Native architecture**, **mobile/web performance engineering**, **AI automation**, or an **end-to-end product team**?
+
+Explore our work and get in touch at **[threadcode.com.br](https://threadcode.com.br)** · **[LinkedIn](https://www.linkedin.com/in/augusto-linhares/)** · **[threadcode@linhares.sc](mailto:threadcode@linhares.sc)**.
